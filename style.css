@@ -1,22 +1,50 @@
 #movie-result {
-  background: rgb(244, 98, 181);
-  border: 5px solid black;
-  font-size: 24px;
-  height: 160px;
+  background:lightgrey;
+  border: 1px solid black;
+  font-size: 16px;
+  height: 20px;
   margin-top: 10px;
   margin-bottom: 20px;
 }
 
 #book-result {
-  background: rgb(196, 159, 255);
-  border: 5px solid black;
-  font-size: 24px;
-  height: 160px;
+  background:lightgrey;
+  border: 1px solid black;
+  font-size: 16px;
+  height: 20px;
   margin-top: 10px;
   margin-bottom: 20px;
 }
 
 hr {
-  height: 5px;
+  height: 2px;
   background-color: black;
+}
+
+#bok-result {
+  background:lightgrey;
+  border: 1px solid black;
+  font-size: 16px;
+  height: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#bik-result {
+  background:lightgrey;
+  border: 1px solid black;
+  font-size: 16px;
+  height: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.backy {
+  background-color: rgb(255,255,255);
+  border: 1px solid black;
+  
 }
